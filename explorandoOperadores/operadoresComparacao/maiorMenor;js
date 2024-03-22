@@ -1,0 +1,14 @@
+// Maior igual >=
+// Maior >
+let idadeMinima = 18
+let idadeUsuario = 18
+
+console.log(idadeUsuario >= idadeMinima)
+
+// Menor <
+// Menor igual <=
+let idadeCorte = 50
+let idadeUsuario1 = 45
+
+let resultadoTerceiraIdade = idadeCorte < idadeUsuario
+console.log(resultadoTerceiraIdade)
